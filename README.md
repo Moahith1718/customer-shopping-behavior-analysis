@@ -88,7 +88,7 @@ Power BI File:
 
 Project walkthrough video:
 
-`video/project_demo.mp4`
+`video`
 
 ---
 
